@@ -1,0 +1,39 @@
+
+
+
+item.mana_ingot.name=Mana Ingot
+item.mana_nugget.name=Mana Nugget
+item.earth_ingot.name=Earth Ingot
+item.earth_nugget.name=Earth Nugget
+item.fire_ingot.name=Fire Ingot
+item.fire_nugget.name=Fire Nugget
+item.ice_ingot.name=Ice Ingot
+item.ice_nugget.name=Ice Nugget
+item.electric_ingot.name=Electric Ingot
+item.electric_nugget.name=Electric Nugget
+item.nature_ingot.name=Nature Ingot
+item.nature_nugget.name=Nature Nugget
+item.metal_ingot.name=Metal Ingot
+item.metal_nugget.name=Metal Nugget
+item.water_ingot.name=Water Ingot
+item.water_nugget.name=Water Nugget
+item.life_ingot.name=Life Ingot
+item.life_nugget.name=Life Nugget
+
+
+
+itemGroup.mmitem=Magical Madness
+
+tile.mana_block.name=Mana Block
+
+tile.arcane_empowerer.name=Arcane Empowerer
+
+
+tile.earth_ore.name=Earth Ore
+tile.electric_ore.name=Electric Ore
+tile.fire_ore.name=Fire Ore
+tile.metal_ore.name=Metal Ore
+tile.life_ore.name=Life Ore
+tile.nature_ore.name=Nature Ore
+tile.water_ore.name=Water Ore
+tile.ice_ore.name=Ice Ore

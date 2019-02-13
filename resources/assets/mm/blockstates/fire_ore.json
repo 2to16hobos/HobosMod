@@ -1,0 +1,9 @@
+{
+    "variants":
+    {
+        "normal":
+        {
+            "model": "mm:fire_ore"
+        }
+    }
+}

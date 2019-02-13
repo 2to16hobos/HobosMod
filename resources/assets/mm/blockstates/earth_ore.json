@@ -1,0 +1,9 @@
+{
+    "variants":
+    {
+        "normal":
+        {
+            "model": "mm:earth_ore"
+        }
+    }
+}
